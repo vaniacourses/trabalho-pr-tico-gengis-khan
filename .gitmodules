@@ -1,0 +1,3 @@
+[submodule "trabalho2/war-ps"]
+	path = trabalho2/war-ps
+	url = git@github.com:MarcValentino/war-ps.git
